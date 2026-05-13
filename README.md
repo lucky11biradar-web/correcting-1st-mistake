@@ -1,4 +1,5 @@
 # correcting-1st-mistake
 correcting mistake done in 1st repository i.e, on-add README 
 <br>
-Author : Ambika Biradar
+Author : Ambika Biradar (learning git)
+
